@@ -790,13 +790,13 @@
     "class": "sidebar_container",
     "settings": ["material_theme_appbar_charcoal"],
     "layer0.tint": [56, 56, 56],
-    "layers.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading.png"
+    "layers2.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading.png"
   },
 
   {
     "class": "sidebar_container",
     "settings": ["material_theme_small_tab", "material_theme_appbar_charcoal"],
-    "layers.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading--small.png",
+    "layers2.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading--small.png",
   },
 
 
