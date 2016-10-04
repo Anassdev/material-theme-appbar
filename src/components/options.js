@@ -9,17 +9,17 @@
     "settings": ["material_theme_small_tab", "enable_tab_scrolling"],
     "layer0.tint": [0, 150, 136],
     "layer0.inner_margin": [0, 32, 0, 0],
-    "layer1.texture": "Material Theme - Appbar/assets/teal/sidebar_heading--small.png",
-    "layer1.opacity": 1.0,
-    "layer1.inner_margin": [130, 36, 14, 0],
+    "layer2.texture": "Material Theme - Appbar/assets/teal/sidebar_heading--small.png",
+    "layer2.opacity": 1.0,
+    "layer2.inner_margin": [130, 36, 14, 0],
     "content_margin": [0, 36, 0, 0]
   },
 
   {
     "class": "sidebar_container",
     "settings": ["material_theme_small_tab", "!enable_tab_scrolling"],
-    "layer1.texture": "Material Theme - Appbar/assets/teal/sidebar_heading--small.png",
-    "layer1.inner_margin": [130, 36, 14, 0],
+    "layer2.texture": "Material Theme - Appbar/assets/teal/sidebar_heading--small.png",
+    "layer2.inner_margin": [130, 36, 14, 0],
     "content_margin": [0, 36, 0, 0]
   },
 
@@ -516,12 +516,12 @@
     "class": "sidebar_container",
     "settings": ["material_theme_appbar_charcoal"],
     "layer0.tint": [56, 56, 56],
-    "layers.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading.png"
+    "layers2.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading.png"
   },
 
   {
     "class": "sidebar_container",
     "settings": ["material_theme_small_tab", "material_theme_appbar_charcoal"],
-    "layers.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading--small.png",
+    "layers2.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading--small.png",
   },
 
