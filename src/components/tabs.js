@@ -25,7 +25,7 @@
     "layer1.inner_margin": [0, 0],
     "layer1.opacity": 0.0,
 
-    "layer2.tint": [255, 255, 255, 0],
+    "layer2.tint": [255, 255, 255, 0.0],
     "layer2.opacity": { "target": 0.0, "speed": 3.0, "interpolation": "smoothstep" },
 
     "layer3.opacity": { "target": 1.0, "speed": 2.0, "interpolation": "smoothstep" },
@@ -94,8 +94,8 @@
   {
     "class": "tab_label",
     "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-    "fg": [255, 255, 255, 255],
-    "shadow_color": [255, 255, 255, 0],
+    "fg": [255, 255, 255, 1.0],
+    "shadow_color": [255, 255, 255, 0.0],
     "shadow_offset": [0, 0]
   },
 

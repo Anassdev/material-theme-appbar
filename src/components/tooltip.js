@@ -10,5 +10,5 @@
 
   {
     "class": "tool_tip_label_control",
-    "color": [255, 255, 255, 150]
+    "color": [255, 255, 255, 0.5]
   },

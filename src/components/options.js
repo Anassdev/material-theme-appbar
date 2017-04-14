@@ -520,8 +520,18 @@
   },
 
   {
+    "class": "title_bar",
+    "fg": [103, 103, 103],
+    "bg": [41, 41, 41],
+  },
+
+  {
     "class": "sidebar_container",
     "settings": ["material_theme_small_tab", "material_theme_appbar_charcoal"],
     "layer2.texture": "Material Theme - Appbar/assets/charcoal/sidebar_heading--small.png",
   },
+
+
+
+
 

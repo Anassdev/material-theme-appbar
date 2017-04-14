@@ -18,7 +18,7 @@
 
   {
     "class": "sidebar_heading",
-    "color": [207, 216, 220, 0],
+    "color": [207, 216, 220, 0.0],
     "font.bold": false,
     "font.size": 12,
   },
