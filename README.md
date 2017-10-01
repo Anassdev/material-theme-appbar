@@ -14,7 +14,7 @@ Install through the [Package Control](https://packagecontrol.io/installation). S
 
 ### NOTE:
 
-If you've intalled 1.0.0 through Package Control please unistall and reinstall it
+If you've intalled 1.0.0 through Package Control please uninstall and reinstall it
  
  
 ## Manual installation
