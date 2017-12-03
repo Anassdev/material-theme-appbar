@@ -3,6 +3,8 @@
 [![Downloads](https://img.shields.io/packagecontrol/dt/Material%20Theme%20Appbar.svg?colorB=80d4cd&style=flat-square)](https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar)
 # Material Theme - Appbar
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/equinusocio/material-theme-appbar.svg)](https://greenkeeper.io/)
+
 With this addon you can add a tinted app bar to your [Material Theme](https://github.com/equinusocio/material-theme) installation. ~~This addon auto fits with material theme accent colors!~~
 
 ## Screenshots
