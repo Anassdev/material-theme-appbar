@@ -10,11 +10,11 @@
     "gulp-concat-json": "^1.0.0",
     "gulp-concat-json2js": "^0.1.0",
     "gulp-duration": "0.0.0",
-    "gulp-notify": "^2.2.0",
+    "gulp-notify": "^3.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-wrap": "^0.13.0",
     "path": "^0.12.7",
-    "run-sequence": "^1.2.2"
+    "run-sequence": "^2.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
